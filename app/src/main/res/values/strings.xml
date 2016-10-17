@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Places2B</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_filter">Filter categories</string>
+    <string name="map">Map</string>
+    <string name="categories">Categories</string>
+    <string name="location_permission_toast">Please allow access to your location to display it</string>
+    <string name="action_add">Add</string>
+    <string name="action_add_category">Add category</string>
+    <string name="show_all">Show all</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="list_places">List places</string>
+</resources>
